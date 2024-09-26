@@ -70,7 +70,7 @@ function generateProductHtml(productsToRender){
     </div>
 
     <div class="product-price">
-    $${centsToActual(product.priceCents)}
+    Rs.${centsToActual(product.priceCents)}
     </div>
 
     <div class="product-quantity-container">

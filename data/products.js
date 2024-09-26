@@ -7,7 +7,7 @@ const products = [
         stars: 4,
         count: 87
       },
-      priceCents: 380000,
+      priceCents: 379900,
       keywords: ["whey protein", "MB", "protein", "gym"]
     },
     {
@@ -18,7 +18,7 @@ const products = [
         stars: 5,
         count: 127
       },
-      priceCents: 8203,
+      priceCents: 149900,
       keywords: ["whey protein", "ON", "protein", "gym"]
     },
     {
@@ -29,7 +29,7 @@ const products = [
         stars: 4,
         count: 56
       },
-      priceCents: 2020,
+      priceCents: 185000,
       keywords: ["whey protein", "Atom", "protein", "gym"]
     },
     {
@@ -40,7 +40,7 @@ const products = [
         stars: 5,
         count: 2197
       },
-      priceCents: 4900,
+      priceCents: 170000,
       keywords: ["beverages", "juices", "healthy", "fruits"]
     },
     {
@@ -51,7 +51,7 @@ const products = [
         stars: 4,
         count: 37
       },
-      priceCents: 6508,
+      priceCents: 40000,
       keywords: ["Creatine", "Atom", "Gym", "Atom Creatine"]
     },
     {
@@ -62,7 +62,7 @@ const products = [
         stars: 3,
         count: 175
       },
-      priceCents: 5121,
+      priceCents: 39300,
       keywords: ["Creatine", "MB", "Gym", "MB Creatine"]
     },
     {
@@ -73,7 +73,7 @@ const products = [
         stars: 4,
         count: 317
       },
-      priceCents: 2805,
+      priceCents: 69600,
       keywords: ["BCAA", "Atom", "Gym", "Atom BCAA"]
     },
     {
@@ -84,7 +84,7 @@ const products = [
         stars: 4,
         count: 144
       },
-      priceCents: 3489,
+      priceCents: 53000,
       keywords: ["BCAA", "MB", "Gym", "MB BCAA"]
     },
     {
@@ -95,7 +95,7 @@ const products = [
         stars: 5,
         count: 305
       },
-      priceCents: 8710,
+      priceCents: 69600,
       keywords: ["ATOM BCAA | Watermelon | 250Gm"]
     },
     {
@@ -106,7 +106,7 @@ const products = [
         stars: 4,
         count: 89
       },
-      priceCents: 3765,
+      priceCents: 27900,
       keywords: ["Myfitness", "gym", "peanutbutter", "myfitness peanutbutter"]
     },
     {
@@ -117,7 +117,7 @@ const products = [
         stars: 5,
         count: 235
       },
-      priceCents: 3865,
+      priceCents: 49900,
       keywords: ["asitis", "gym", "peanutbutter", "asitis peanutbutter"]
     },
     {
@@ -128,7 +128,7 @@ const products = [
         stars: 5,
         count: 30
       },
-      priceCents: 9825,
+      priceCents: 25000,
       keywords: ["Myfitness", "gym", "peanutbutter", "myfitness peanutbutter"]
     },
     {
@@ -139,7 +139,7 @@ const products = [
         stars: 3,
         count: 232
       },
-      priceCents: 3841,
+      priceCents: 47400,
       keywords: ["oats", "mb", "organic", "mb oats"]
     },
     {
@@ -150,7 +150,7 @@ const products = [
         stars: 5,
         count: 160
       },
-      priceCents: 6290,
+      priceCents: 58800,
       keywords: ["protein", "atom", "protein bar", "healthy"]
     },
     {
@@ -161,7 +161,7 @@ const products = [
         stars: 3,
         count: 846
       },
-      priceCents: 2305,
+      priceCents: 79900,
       keywords: ["fish oil", "mb fish oil", "mb", "healthy"]
     }
   ]
