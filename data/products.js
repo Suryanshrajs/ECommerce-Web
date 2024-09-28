@@ -140,7 +140,7 @@ const products = [
         count: 232
       },
       priceCents: 47400,
-      keywords: ["oats", "mb", "organic", "mb oats"]
+      keywords: ["oats", "mb", "organic oats", "mb oats"]
     },
     {
       id: "901eb2ca-386d-432e-82f0-6fb1ee7bf969",
